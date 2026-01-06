@@ -12,7 +12,7 @@ dependencies = [
   "shapely==2.0.6",
   "celery==5.4.0",
   "redis==5.2.0",
-  "aiohttp==3.11.2",
+  "aiohttp==3.13.3",
   "h3==4.1.2",
   "requests==2.32.3",
   # Note: GDAL/osgeo is installed via apt in Docker (python3-gdal)
